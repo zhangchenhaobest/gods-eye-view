@@ -1,3 +1,29 @@
+# gods-eye-view
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+浏览器中的间谍卫星模拟器，基于真实数据，在逼真 3D 地球上呈现实时开源空间情报。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # 🌐 God's Eye View
